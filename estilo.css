@@ -1,0 +1,52 @@
+ body{
+    background-color: rgb(51, 51, 51);
+    color: white;
+    
+}
+footer {
+    background-color: black; 
+}
+div#apr {
+    background-color: rgb(255, 175, 175);
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    margin-left: 50px;
+    text-decoration: underline;
+    color: rgb(5, 148, 124);
+    text-align: center;
+}
+img#perfil {
+  margin-left: 550px;
+}
+section#um {
+    background-color: rgb(67, 68, 70);
+    color: rgb(250, 239, 239);
+    height: 80px;
+}
+section#dois {
+    background-color: rgb(157, 223, 250);
+    color: rgb(0, 0, 0);
+    height: 250px;
+}
+section#tres {
+    background-color: violet;
+    height: 100px;
+    margin-bottom:5px;
+}
+
+h2 {
+font-size: 25px;
+margin-left: 115px;
+text-decoration: underline;
+color: rgb(238, 29, 74);
+}
+h2#pri {
+  margin-left:620px ;
+}
+p#pri {
+  margin-left: 370px;
+} 
+
+
